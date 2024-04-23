@@ -31,7 +31,7 @@ The complete list of Python libraries used is:
 - Matplotlib
 - tqdm
 
-They all can be installed with the installers available in the 'INSTALL' folder, or using the pip install command.
+They all can be installed with the installers available in the 'INSTALL' folder (if conda available), or using the pip install command.
 
 ## *References* :earth_americas:
 
